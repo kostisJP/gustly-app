@@ -2,6 +2,8 @@
 
 Gustly is a GPS session tracker for **windsurfing, kitesurfing, wingfoiling, and windfoiling**. Record your time on the water, see where your fastest runs happened, and track your progress across sessions.
 
+Visit [gustly.app][website] to learn more about the app.
+
 This repository is Gustly’s issue tracker. Use it to report bugs, suggest improvements, and follow updates on issues you care about.
 
 **[Report a bug][bug] · [Suggest a feature][feature] · [Browse issues][issues]**
@@ -12,7 +14,7 @@ This repository is Gustly’s issue tracker. Use it to report bugs, suggest impr
 - **Review speed and technique.** Explore your route and speed timeline. See your best 2-second speed, 5 × 10-second average, Alpha 500, and nautical-mile speed. Analyze your gybes and tacks.
 - **Track and share your progress.** Compare sessions, track personal bests and gear, share a route and stats card, or upload selected sessions to GPS-Speedsurfing (GP3S).
 
-[Website][website] · [App Store][ios] · [Google Play][android] · [Garmin Connect IQ][garmin]
+[App Store][ios] · [Google Play][android] · [Garmin Connect IQ][garmin]
 
 ## Filing an issue
 
